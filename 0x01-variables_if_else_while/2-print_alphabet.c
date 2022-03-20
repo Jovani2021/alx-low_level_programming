@@ -1,3 +1,4 @@
+#include <stdio.h>
 /**
  * main - Entry point
  *
@@ -10,5 +11,6 @@ int main(void)
 	{
 		putchar(alphabet);
 	}
-	return (0);
+	putchar('\n');
+return (0);
 }
