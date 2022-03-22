@@ -18,3 +18,10 @@ for (alphabet = 'a' ; alphabet <= 'z'; alphabet++)
 {
 _putchar(alphabet);
 }
+
+count++;
+_putchar('\n');
+}
+
+
+}
